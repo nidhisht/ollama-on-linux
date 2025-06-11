@@ -27,5 +27,3 @@ Here's the step by step instruction to configure ollama on WSL (Windows Subsyste
 ### 6) Invoke API
   ![image](https://github.com/user-attachments/assets/967fe1d3-5123-4b3d-8e92-bfae882aa7b7)
 
-  ![image](https://github.com/user-attachments/assets/34cd575e-283c-4632-8835-7ee7a763a5e8)
-
