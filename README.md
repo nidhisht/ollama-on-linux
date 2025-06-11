@@ -1,7 +1,7 @@
 # ollama-on-linux
 The following steps will guide you through configuring Ollama on WSL (Windows Subsystem for Linux).
 
-## Configure ollama on WSL
+## Steps to configure ollama on WSL
 
 ### 1) Open WSL
       
